@@ -1,0 +1,3 @@
+# NEWCAMD
+
+newcamd oscam server
